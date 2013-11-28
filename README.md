@@ -1,4 +1,4 @@
 cucumber-elasticsearch
 ======================
 
-Cucucmber-Elasticsearch plugin
+Cucumber-Elasticsearch plugin
