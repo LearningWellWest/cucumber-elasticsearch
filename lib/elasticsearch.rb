@@ -70,7 +70,7 @@ class ElasticSearch
             step_name: step_name,
             status:status,
             exception:exception,
-            timestamp:Time.now.to_s,
+            timestamp:Time.now.utc.iso8601,
             tags:tags
          }
       end
